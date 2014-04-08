@@ -1,4 +1,4 @@
-# coding: utf-8
+# -*- coding: utf-8 -*-
 {
 '!langcode!': 'tr',
 '!langname!': 'Türkçe',
@@ -129,7 +129,9 @@
 'done!': 'bitti!',
 'Download .w2p': '.w2p İndir',
 'download layouts': 'düzenleri indir',
+'Download layouts from repository': 'Download layouts from repository',
 'download plugins': 'eklentileri indir',
+'Download plugins from repository': 'Download plugins from repository',
 'EDIT': 'DÜZENLE',
 'Edit': 'Düzenle',
 'edit all': 'tümünü düzenle',
@@ -361,7 +363,7 @@
 'This page can upload your application to the Google App Engine computing cloud. Mind that you must first create indexes locally and this is done by installing the Google appserver and running the app locally with it once, or there will be errors when selecting records. Attention: deployment may take long time, depending on the network speed. Attention: it will overwrite your app.yaml. DO NOT SUBMIT TWICE.': 'Bu sayfa uygulamanızı Google App Motoru bilişim bulutuna yükleyecektir. İndeksleri yerel olarak oluştırmanız gerektiğini aklınızda tutun, Google uygulama sunucusunu yerel olarak kurup çalıştırın, aksi halde bazı kayıtlarda hatalar olacaktır. Uyarı: yayınlama ağ hızınıza bağlı olarak uzun zaman alabilir. Uyarı: bu sizin app.yaml dosyasını yeniden yazar. LÜTFEN BİRDEN FAZLA GÖNDERMEYİN.',
 'this page to see if a breakpoint was hit and debug interaction is required.': 'bu sayfayı, kesme noktasına geldiğini görmek için ve hata ayıklama etkileşmesi gerekiyor..',
 'Ticket': 'Bilet',
-'Ticket ID': 'Bile ID\'si',
+'Ticket ID': "Bile ID'si",
 'TM': 'TM',
 'to  previous version.': 'önceki sürüme.',
 'To create a plugin, name a file/folder plugin_[name]': 'Eklenti oluşturmak için dosyayı dosya/klasör plugin_[isim] şeklinde isimlendir. ',
